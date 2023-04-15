@@ -7,7 +7,7 @@
   "defaultHomeServer": "matrix.org",
   "bugReportEndpointUrl": "https://element.io/bugreports/submit",
   "themeManifests": [
-    "https://raw.githubusercontent.com/pbk123461/chat/main/assets/theme-element.json"
+    "assets/theme-element.json"
   ],
   "defaultTheme": {
     "light": "element-light",
