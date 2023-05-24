@@ -12,5 +12,8 @@
   "defaultTheme": {
     "light": "element-light",
     "dark": "element-dark"
-  }
+   {
+    "jitsi": {
+        "preferredDomain": "meet.mayfirst.org"
+    }
 }
